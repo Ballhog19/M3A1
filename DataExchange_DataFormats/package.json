@@ -1,0 +1,15 @@
+{
+  "name": "dataexchange_dataformats",
+  "version": "1.0.0",
+  "description": "IFT 458 Module 3 Assignment 1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brad Hawk",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
